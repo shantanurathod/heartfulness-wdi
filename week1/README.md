@@ -1,7 +1,7 @@
 # Week 1: Foundations and Getting Started
 ## 1. Understanding Next.js Basics:
-- [ ] Read the official Next.js documentation to grasp the fundamentals of the framework.
-- [ ] Set up a simple Next.js project and explore its structure.
+- [X] Read the official Next.js documentation to grasp the fundamentals of the framework.
+- [X] Set up a simple Next.js project and explore its structure.
 ## 2. Getting Comfortable with TypeScript:
 - [ ] Learn TypeScript basics and how to integrate it with Next.js.
 - [ ] Convert your existing Next.js project to use TypeScript.

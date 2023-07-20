@@ -1,0 +1,16 @@
+# Everything
+/*
+
+# add project folders
+/week1/blog-app
+
+#except
+!.gitignore
+!.md
+
+# even if they are in subfolders
+!week1/
+!week2/
+!week3/
+!week4/
+

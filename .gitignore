@@ -3,6 +3,7 @@
 
 # add project folders
 /week1/blog-app
+/week1/donation-web
 
 #except
 !.gitignore

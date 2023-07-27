@@ -4,6 +4,7 @@
 # add project folders
 /week1/blog-app
 /week1/donation-web
+/week2/donation-hfn-strapi
 
 #except
 !.gitignore

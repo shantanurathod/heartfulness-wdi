@@ -1,6 +1,6 @@
 # Week 2: Advanced Next.js and Testing
 ## 1. Advanced Next.js Features:
-- [ ] Dive deeper into Next.js concepts like dynamic routing, data fetching, and API routes.
+- [X] Dive deeper into Next.js concepts like dynamic routing, data fetching, and API routes.
 - [ ] Create more complex pages and explore advanced features like server-side rendering (SSR) and static site generation (SSG).
 - [ ] Explore and implement server-side rendering (SSR) and static site generation (SSG) for key pages to enhance performance.
 site generation (SSG).

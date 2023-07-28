@@ -5,6 +5,7 @@
 /week1/blog-app
 /week1/donation-web
 /week2/donation-hfn-strapi
+/week2/strapi-trial
 
 #except
 !.gitignore
